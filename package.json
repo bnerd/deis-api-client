@@ -1,0 +1,27 @@
+{
+  "name": "deis-api-client",
+  "version": "0.1.0",
+  "description": "Node.js API Client for Deis Workflow",
+  "author": "Bernd Suenkel <bernd@bnerd.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnerd/deis-api-client"
+  },
+  "bugs": {
+    "url": "https://github.com/bnerd/deis-api-client/issues"
+  },
+  "main": "./lib/deis.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "lodash": "^4.16.6",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "mocha": "^3.1.2"
+  }
+}
