@@ -1,6 +1,6 @@
 {
   "name": "deis-api-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Node.js API Client for Deis Workflow",
   "author": "Bernd Suenkel <bernd@bnerd.de>",
   "repository": {
