@@ -103,9 +103,5 @@ DEIS_TOKEN=<TOKEN>
 then run
 
 ```bash
-$ npm test
+$ npm test # Todo
 ```
-
-# Copyright
-
-Copyright (c) 2016 Bernd Suenkel. See LICENSE.txt for further details.
