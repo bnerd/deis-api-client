@@ -105,3 +105,5 @@ then run
 ```bash
 $ npm test # Todo
 ```
+
+or just [use](https://www.npmjs.com/package/node-deis) [another](https://github.com/olalonde/deis-node) [client](https://github.com/aledbf/deis-api).
